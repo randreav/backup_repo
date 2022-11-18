@@ -1,1 +1,2 @@
 iniciar fichero
+linea1 ciente1
